@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "AutoKitDuelRP",
+    "description": "Optional resource pack for AutoKitDuelBP",
+    "uuid": "3b5d5f0d-cf8f-41fe-8d73-df099c3f20e1",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "acdc2bf9-fce1-4af6-9fb9-9d9d6ac4eb88",
+      "version": [1, 0, 0]
+    }
+  ]
+}
